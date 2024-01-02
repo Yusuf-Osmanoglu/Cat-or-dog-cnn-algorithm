@@ -4,7 +4,7 @@ Bu proje, Microsoft'un Kaggle Cats and Dogs veri setini kullanarak derin öğren
 
 ## Kullanıma Başlamak
 
-1. Bu projeyi kendi Google Drive hesabınıza kopyalamak için [bu bağlantıyı kullanabilirsiniz]([https://colab.research.google.com/github/<kullanici_adi>/<repo_adi>/blob/main/main.ipynb](https://colab.research.google.com/drive/10nh-MsjV-iAh_5M1M9gCdqlvmH8OX5Ys?usp=sharing)).
+1. Bu projeyi kendi Google Drive hesabınıza kopyalamak için [bu bağlantıyı kullanabilirsiniz](https://colab.research.google.com/github/<kullanici_adi>/<repo_adi>/blob/main/main.ipynb (https://colab.research.google.com/drive/10nh-MsjV-iAh_5M1M9gCdqlvmH8OX5Ys?usp=sharing)).
 
 2. Colab üzerinde projeyi açtıktan sonra, Jupyter Notebook'u adım adım takip ederek projeyi çalıştırabilirsiniz.
 
